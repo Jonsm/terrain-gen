@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Shaders/Water.shader">
+    <Files>
+      <File FileName="Assets/Shaders/Water.shader" Line="6" Column="3" />
+      <File FileName="Assets/Shaders/Terrain.shader" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/TerrainProperties.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/MapBuilder.cs" Line="23" Column="39" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
